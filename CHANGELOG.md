@@ -9,9 +9,11 @@ Bugfixes:
 
 * #115 - Strange behavior can manifest with invalid sub-commands
 * #117 - Ignore whitespace-only lines in exclusion files
+* #140 - Ensure a valid output folder name in Windows
 
 Other changes:
 
+* #95 - Run CI across Linux, Windows, and MacOS
 * #130 - Added references to Tartufo GoogleGroups mailing list to docs
 * Fixed testing in Pypy3 and explicitly added Python 3.9 support
 
